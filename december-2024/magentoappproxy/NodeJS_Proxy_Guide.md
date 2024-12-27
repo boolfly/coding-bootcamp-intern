@@ -35,7 +35,7 @@ This Node.js proxy server forwards GraphQL requests from your frontend to a Mage
 ## 5. Run the Proxy
 - Start the server with:
   ```bash
-  node server.js
+  node proxy-server.js
   ```
 - The proxy will be available at `https://magentoappproxy.test:4000/graphql`.
 
