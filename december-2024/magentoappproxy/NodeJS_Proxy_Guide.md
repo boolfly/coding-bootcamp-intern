@@ -2,7 +2,7 @@
 # Quick Guide to Using Your Node.js Proxy Server
 
 **Purpose**:  
-This Node.js proxy server forwards GraphQL requests from your frontend to a Magento backend, handling SSL encryption and bypassing certificate validation for local development with self-signed certificates. We created this proxy server to easily access the Magento GraphQL API from an Android Emulator, ensuring secure communication during development.
+This Node.js proxy server forwards GraphQL requests from your frontend to a Magento backend, handling SSL encryption and bypassing certificate validation for local development with self-signed certificates. We created this proxy server to easily access the Magento GraphQL API from an Android Emulator.
 
 ## 1. Prerequisites
 - Install **Node.js** and **npm**.
